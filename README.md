@@ -1,7 +1,7 @@
 ## Hello devs! me chamo Matheus Santos 🖐️
 Muito bem-vindo ao meu GitHub! 
 
-<p>Como ja mencionei acima me chamo Matheus, estou cursando Análise e desenvolvimento de sistemas último período. Sou apaixonado por tecnologia e fascinado em transformar soluções em códigos para melhorar vidas e a sociedade. Estou a procura de uma oportunidade para começar minha carreira na area da tecnologia da informação.</p>
+<p>Sou Matheus dos Santos Gonçalves, tenho 22 anos, sou desenvolvedor focado em Full stack e venho constantemente aprimorando meus conhecimentos em  Front-end, Back-end e alguns conhecimentos DevOps. Sou formado em Análise e Desenvolvimento de Sistemas, atualmente Analista de implantação na empresa <a href="https://nerus.com.br/"><spam>Nerus Software.</spam></a></p>
 
 ### Para contato segue redes socias abaixo:
 
