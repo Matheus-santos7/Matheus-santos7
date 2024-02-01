@@ -1,7 +1,8 @@
 ## Hello devs! 🖐️
 Muito bem-vindo ao meu GitHub! 
 
-<p>Sou Matheus dos Santos Gonçalves, tenho 23 anos, sou desenvolvedor focado em Full stack e venho constantemente aprimorando meus conhecimentos em  Front-end, Back-end e alguns conhecimentos DevOps. Sou formado em Análise e Desenvolvimento de Sistemas, graduando na POS-Graduação desenvolvimento web full-stack na universidade PUCMINAS, atualmente Analista de implantação na empresa <a href="https://nerus.com.br/"><spam>Nerus Software.</spam></a></p>
+<p>Quem sou ?
+Matheus Santos Gonçalves, 24 anos, Cursando Especialização para desenvolvedor Full Stack Web. Possuo experiência em Front-end, Back-end, no qual venho me atualizando e aprimorando constantemente. Graduado em Análise e Desenvolvimento de Sistema. No presente momento sigo realizando a especialização de Desenvolvimento Web Full Stack pela Universidade PUC Minas. atualmente sou Analista de Implantação na Nerus Software., empresa de destaque no mercado Omnichannel.</p>
 
 ### Para contato segue redes socias abaixo:
 
