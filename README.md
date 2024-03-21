@@ -1,5 +1,5 @@
-# 💫 About Me:
-## Hello devs! 🖐️<br>Muito bem-vindo ao meu GitHub! <br><br><p>Quem sou ?<br>Matheus Santos Gonçalves, 24 anos, Cursando Especialização para desenvolvedor Full Stack Web. Possuo experiência em Front-end, Back-end, no qual venho me atualizando e aprimorando constantemente. Graduado em Análise e Desenvolvimento de Sistema. No presente momento sigo realizando a especialização de Desenvolvimento Web Full Stack pela Universidade PUC Minas. atualmente sou Analista de Implantação na Nerus Software., empresa de destaque no mercado Omnichannel.</p>
+
+Muito bem-vindo ao meu GitHub! <br><br><p>Quem sou ?<br>Matheus Santos Gonçalves, 24 anos, Cursando Especialização para desenvolvedor Full Stack Web. Possuo experiência em Front-end, Back-end, no qual venho me atualizando e aprimorando constantemente. Graduado em Análise e Desenvolvimento de Sistema. No presente momento sigo realizando a especialização de Desenvolvimento Web Full Stack pela Universidade PUC Minas. atualmente sou Analista de Implantação na Nerus Software., empresa de destaque no mercado Omnichannel.</p>
 
 
 ## 🌐 Socials:
