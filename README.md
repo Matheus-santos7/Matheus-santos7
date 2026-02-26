@@ -1,5 +1,6 @@
 <p align="right">
-  <a href="https://visitcount.itsvg.in/api?id=matheus-santos7&icon=0&color=0">
+  <a href="htt
+    ps://visitcount.itsvg.in/api?id=matheus-santos7&icon=0&color=0">
     <img src="https://visitcount.itsvg.in/api?id=matheus-santos7&icon=0&color=0" alt="Visit Count" />
   </a>
 </p>
@@ -9,7 +10,8 @@
 
 Desenvolvedor Full Stack focado em escalabilidade e desempenho. Atualmente, atuo como Analista Pleno na Nerus Software, onde transformo requisitos de clientes em soluções tecnológicas para o setor de Varejo, equilibrando o desenvolvimento de software com a implantação estratégica de sistemas Omnichannel.
 
-**Formação:** * 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
+**Formação:** 
+* 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
 * 📜 Especialista em Desenvolvimento Web Full Stack pela **PUC Minas**.
 
 ---
