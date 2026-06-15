@@ -12,7 +12,8 @@ Desenvolvedor Full Stack focado em escalabilidade e desempenho. Atualmente, atuo
 
 **Formação:** 
 * 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
-* 📜 Especialista em Desenvolvimento Web Full Stack pela **PUC Minas**.
+* 📜 Pos-graduado em Desenvolvimento Web Full Stack pela **PUC Minas**.
+* 📜 Pos-graduando em Engenharia de IA aplicada pela **UNIPDS**.
 
 ---
 
