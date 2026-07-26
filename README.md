@@ -8,7 +8,7 @@
 # Matheus Santos 👋
 ### Full Stack Developer | Especialista em Soluções Omnichannel
 
-Desenvolvedor Full Stack focado em escalabilidade e desempenho. Atualmente, atuo como Analista Pleno na Nerus Software, onde transformo requisitos de clientes em soluções tecnológicas para o setor de Varejo, equilibrando o desenvolvimento de software com a implantação estratégica de sistemas Omnichannel.
+Desenvolvedor Full Stack focado em escalabilidade e desempenho. Atualmente, atuo como Analista Pleno na Nerus Software, onde transformo requisitos de clientes em soluções tecnológicas para o setor de Varejo e Ecommerce, equilibrando o desenvolvimento de software com a implantação estratégica de sistemas Omnichannel.
 
 **Formação:** 
 * 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
