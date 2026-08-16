@@ -5,14 +5,14 @@
 </p>
 
 # Matheus Santos
-### Full Stack Developer | Especialista em Soluções Omnichannel
+### Full Stack Developer | Especialista em Soluções Omnichannel & Engenharia de IA
 
-Desenvolvedor Full Stack focado em escalabilidade e desempenho. Atualmente, atuo como Analista Pleno na Nerus Software, onde transformo requisitos de clientes em soluções tecnológicas para o setor de Varejo e Ecommerce, equilibrando o desenvolvimento de software com a implantação estratégica de sistemas Omnichannel.
+Desenvolvedor Full Stack focado em escalabilidade, desempenho e integração de Inteligência Artificial. Atualmente, atuo como Analista Pleno na Nerus Software, onde transformo requisitos de clientes em soluções tecnológicas para o setor de Varejo e Ecommerce, equilibrando o desenvolvimento de software com a implantação estratégica de sistemas Omnichannel e automações inteligentes.
 
 **Formação:** 
 * 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
 * 📜 Pós-graduado em Desenvolvimento Web Full Stack pela **PUC Minas**.
-* 📜 Pós-graduando em Engenharia de IA aplicada pela **UNIPDS**.
+* 🧠 Pós-graduando em Engenharia de Inteligência Artificial Aplicada pela **UNIPDS**. Focado no desenvolvimento de soluções orientadas a dados, integrações de LLMs, Machine Learning, NLP (Processamento de Linguagem Natural) e construção de agentes inteligentes para otimização de negócios.
 
 ---
 
@@ -33,6 +33,12 @@ Divido meu conjunto de ferramentas em camadas para facilitar a visualização t�
 ![Nest](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🤖 IA & Dados
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🗄️ Database
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -62,7 +68,7 @@ Divido meu conjunto de ferramentas em camadas para facilitar a visualização t�
 ---
 
 ## 📫 Vamos conversar?
-Estou sempre aberto a novos desafios técnicos, parcerias em projetos inovadores ou apenas um bom bate-papo sobre tecnologia.
+Estou sempre aberto a novos desafios técnicos, parcerias em projetos inovadores ou apenas um bom bate-papo sobre tecnologia e Inteligência Artificial.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-santos7)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
