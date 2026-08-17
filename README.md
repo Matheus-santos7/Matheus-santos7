@@ -1,18 +1,12 @@
-<p align="right">
-  <a href="https://visitcount.itsvg.in/api?id=matheus-santos7&icon=0&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=matheus-santos7&icon=0&color=0" alt="Visit Count" />
-  </a>
-</p>
-
 # Matheus Santos
 ### Full Stack Developer | Especialista em Soluções Omnichannel & Engenharia de IA
 
 Desenvolvedor Full Stack focado em escalabilidade, desempenho e integração de Inteligência Artificial. Atualmente, atuo como Analista Pleno na Nerus Software, onde transformo requisitos de clientes em soluções tecnológicas para o setor de Varejo e Ecommerce, equilibrando o desenvolvimento de software com a implantação estratégica de sistemas Omnichannel e automações inteligentes.
 
 **Formação:** 
-* 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
-* 📜 Pós-graduado em Desenvolvimento Web Full Stack pela **PUC Minas**.
-* 🧠 Pós-graduando em Engenharia de Inteligência Artificial Aplicada pela **UNIPDS**. Focado no desenvolvimento de soluções orientadas a dados, integrações de LLMs, Machine Learning, NLP (Processamento de Linguagem Natural) e construção de agentes inteligentes para otimização de negócios.
+* Graduado em Análise e Desenvolvimento de Sistemas.
+* Pós-graduado em Desenvolvimento Web Full Stack pela **PUC Minas**.
+* Pós-graduando em Engenharia de Inteligência Artificial Aplicada pela **UNIPDS**. Focado no desenvolvimento de soluções orientadas a dados, integrações de LLMs, Machine Learning, NLP (Processamento de Linguagem Natural) e construção de agentes inteligentes para otimização de negócios.
 
 ---
 
